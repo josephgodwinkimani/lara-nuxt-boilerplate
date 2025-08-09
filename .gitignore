@@ -24,3 +24,5 @@ Homestead.yaml
 Thumbs.db
 .php-cs-fixer.cache
 .phpstan.cache
+/frontend/.nuxt
+/frontend/.output
